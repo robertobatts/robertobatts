@@ -1,4 +1,4 @@
-### Hi there 👋
+![Roberto's GitHub Stats](https://github-readme-stats.vercel.app/api?username=robertobatts&show_icons=true&hide=[%22stars%22])
 
 <!--
 **robertobatts/robertobatts** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
